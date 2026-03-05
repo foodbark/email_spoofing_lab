@@ -25,8 +25,7 @@ swaks --version
 ## Step 1: Get a Temporary Target Inbox
 
 Go to [temp-mail.org](https://temp-mail.org) and grab a disposable email address. 
-
-![[Pasted image 20260304130346.png]]
+![[tempmail-inbox02.png]]
 
 For this lab we used:
 
@@ -107,7 +106,7 @@ The server accepted the fake sender with no authentication whatsoever.
 
 ## Step 4: Check the Inbox
 
-![Temp mail inbox showing Rex the Dog](tempmail-inbox.png)
+![Temp mail inbox showing Rex the Dog](tempmail-inbox01.png)
 
 ![Email from Rex the Dog](rex-inbox.png)
 
