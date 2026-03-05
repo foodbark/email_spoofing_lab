@@ -207,7 +207,7 @@ If any of these return no results, the domain is vulnerable to spoofing.
 ## Coming Next: Locking Down Your Domain in Cloudflare
 
 The next section of this lab will walk through adding SPF, DKIM, and DMARC records 
-in Cloudflare DNS to properly protect a domain against exactly the attack demonstrated 
+in Hostinger to properly protect a domain against exactly the attack demonstrated 
 above.
 
 ---
